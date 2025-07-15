@@ -14,8 +14,10 @@ EdMentor is an AI-powered personalized learning platform designed to recommend s
 
 ## 📌 Tech Stack
 - Python
-- AI/ML Algorithms
-- Data Processing
+- Streamlit
+- Pillow
+- user-agents
+- aframe-react (for VR/AR content)
 
 ## 📌 Status
 Project completed as part of academic coursework.
