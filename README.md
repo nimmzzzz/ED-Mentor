@@ -1,4 +1,4 @@
-# ED-Mentor
+# EdMentor
 AI-powered Personalized Learning App
 
 
